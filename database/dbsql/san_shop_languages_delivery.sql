@@ -1,0 +1,17 @@
+INSERT INTO `san_shop_languages_delivery` (`id`, `language_id`, `shortname`, `active`) VALUES
+(1, 1, 'postdanmark', 1),
+(2, 1, 'gls', 1),
+(3, 5, 'bring', 1),
+(4, 5, 'tnteco', 1),
+(5, 5, 'tntexpress', 1),
+(6, 2, 'tnteco', 0),
+(7, 2, 'postdanmark', 1),
+(8, 2, 'gls', 1),
+(9, 1, 'tnteco', 0),
+(10, 2, 'tntexpress', 1),
+(11, 1, 'tntexpress', 0),
+(12, 3, 'tnteco', 1),
+(13, 3, 'tntexpress', 1),
+(14, 4, 'bring', 1),
+(15, 4, 'tntexpress', 1),
+(16, 3, 'bring', 1);
